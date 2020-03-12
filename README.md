@@ -8,7 +8,7 @@
 ## 강의안내
 - 강의 1주차는 스마트캠퍼스( https://smart.hallym.ac.kr/index.jsp )에 동영상으로 제공되니 꼭 학습하시기 바랍니다.
 1. 강의안내 동영상
-3. 전체서식
+3. <https://github.com/lab-lwc/20201_CapstonDesign/blob/master/2020_1_capstoneDesignForm.hwp"> 전체서식</a>
 
 ## 팀 목록
 ### 리눅스 기반의 응용 프로그램 개발 

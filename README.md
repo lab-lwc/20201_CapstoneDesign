@@ -10,6 +10,7 @@
 1. [강의안내 파일](https://github.com/lab-lwc/20201_CapstonDesign/blob/master/introduceCapstoneDesign.pdf)
 2. [전체서식 파일]( https://github.com/lab-lwc/20201_CapstonDesign/blob/master/2020_1_capstoneDesignForm.hwp)  
 3. [과제제출](https://hlsw.hallym.ac.kr/index.php?mp=s3) (사업단 홈페이지)
+4. [통합 제안서](https://github.com/lab-lwc/20201_CapstoneDesign/blob/master/제안서통합본.pdf)
 
 ## 캡스톤디자인 일정 
 |일정|1학기 일정|비고|

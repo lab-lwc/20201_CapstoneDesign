@@ -67,7 +67,7 @@
   * 팀원 : 강보경
 ### [데이터 분석형 설문조사 시스템 개발](https://github.com/JHSeo95/hallym_SW_CapstoneDesign) 
   * 지도교수 : 이원철  
-  * 팀원 : 서진호, 최대준
+  * 팀원 : 서진호, 최대준, 김상진
 ### [심음 측정을 통한 발려동물 건강상태 분석](https://github.com/2020-Hallym-Capstone-Design-Team-PHAS) 
   * 지도교수 : 이원철
   * 팀원 : 이용하, 조명근, 최승명, 황영조 

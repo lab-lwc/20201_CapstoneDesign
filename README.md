@@ -12,9 +12,11 @@
 3. [과제제출](https://hlsw.hallym.ac.kr/index.php?mp=s3) (사업단 홈페이지)
 4. [제안서리스트](https://github.com/lab-lwc/20201_CapstoneDesign/blob/master/자료/제안서통합본.pdf)
 5. [강의안내동영상](https://youtu.be/SQ1s6JyidUI)
+6. [VM 및 GPU 서비스 신청서](https://github.com/lab-lwc/20201_CapstoneDesign/blob/master/자료/vmgpu서비스신청서.hwp)
 
 ## 캡스톤디자인 일정 
 신청서 제출 연기 안내 : 신청서는 4월 3일까지 추가 제출해 주시기 바랍니다.
+VM 및 GPU서비스 안내 : 신청서를 4월 3일까지 메일(woncheol@hallym.ac.kr)로 발송해 주시기 바랍니다.
 |일정|1학기 일정|비고|
 |---------------|--------------|---------------|
 |주제공모|2020.02.11. ~ 02.28.|(교수,기업,학생)|

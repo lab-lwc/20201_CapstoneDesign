@@ -129,7 +129,7 @@
   * 지도교수 : 이정
 ### Fugitive or Murder(스릴/탈출 게임) (깃주소x)
   * 팀명 : Fugitive or Murderer  
-  * 팀원 : 김관년, 박영범, 이돈휘, 이현성, 최중호, 황준원
+  * 팀원 : 황준원, 김관년, 박영범, 이돈휘, 이현성, 최중호  
   * 참여기업 : 넷마블2
   * 지도교수 : 이정
 ### [딥러닝을 활용한 애플리케이션 개발](https://github.com/HyeonGyuChi/CapstoneDesign20201) 

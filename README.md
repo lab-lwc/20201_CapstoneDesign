@@ -122,8 +122,8 @@
   * 팀원 : 권동혁, 김병두, 문광운, 배홍준, 안춘모  
   * 지도교수 : 이원철 
   * 참여기업 : 소프트잼
-### [컴퓨터그랙픽스 운용](https://github.com/noyeng/sound_correct_hallym)
-  * 팀명 : 사우드플레이
+### [컴퓨터 그래픽스 운용](https://github.com/noyeng/sound_correct_hallym)
+  * 팀명 : 사드플레이
   * 팀원 : 노영진, 하지혜 
   * 지도교수 : 이정
   * 참여기업 : (주)디지캡

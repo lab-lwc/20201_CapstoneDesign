@@ -82,7 +82,7 @@
   * 지도교수 : 송성호  
   * 팀원 : 박성민, 정회웅
   * 참여기업 : 에이엔디
-### 혈관나이 예측 알고리즘 개발 (깃주소x)
+### [혈관나이 예측 알고리즘 개발](https://github.com/KangBokyeong/20201CapstoneDesign/)  
   * 지도교수 : 안재목
   * 팀원 : 강보경
 ### [데이터 분석형 설문조사 시스템 개발](https://github.com/JHSeo95/hallym_SW_CapstoneDesign) 

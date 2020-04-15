@@ -21,6 +21,8 @@
 5. [강의안내동영상](https://youtu.be/SQ1s6JyidUI)
 6. [VM 및 GPU 서비스 신청서](https://github.com/lab-lwc/20201_CapstoneDesign/blob/master/자료/vmgpu서비스신청서.hwp)  
 
+## Tool 안내
+1. DB 디자인 툴 : https://aquerytool.com/  
 ## 캡스톤디자인 일정 
 |일정|1학기 일정|비고|
 |---------------|--------------|---------------|

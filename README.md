@@ -5,7 +5,7 @@
 
 
 ## 특강안내
-- 특강 참여 방법 안내 : googleclass의 행아웃을 이용하여 참여
+- 특강 참여 방법 안내 : googleclass의 행아웃을 이용하여 참여  
   google class 수업코드:itqkrw2 또는 강의전에 행아웃 카톡으로 uri배포  
    
 - 주제 : 기계학습 및 딥러닝  

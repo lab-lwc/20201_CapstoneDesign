@@ -12,21 +12,25 @@
   일시 : 2020년 4월 22일(수) 오후 2시  
   발표자 : 지오비전 문귀성 연구원   
   접속주소 : https://meet.google.com/tat-drwo-mux  
+  회의록 작성팀 :  으랏차차, MIS, 빅트코인, SAFE TEAM, 주차의민족, PHAS  
   
 - 주제 : 기계학습 및 딥러닝  
   일시 : 2020년 4월 22일(수) 오후 4시  
   발표자 : 강원창조경제혁신센터 김영진 선임연구원  
   접속주소 : https://meet.google.com/xfr-ykhp-ywv  
+  회의록 작성팀 :  으랏차차, MIS, 빅트코인, SAFE TEAM, 주차의민족, PHAS 
   
 -  주제 : 모바일 개발    
    일시 :2020년 4월 23일 오후 2시   
-   발표자 : 소프트잼 이사 김용호    
+   발표자 : 소프트잼 김용호 대표      
    접속주소 : https://meet.google.com/zhv-qupy-bas  
+   회의록 작성팀 : 한알림, 201551xx  SSH
    
 - 주제 : 게임개발  
   일시 : 2020년 4월 24일 오전 10:30  
   발표자 : 넷마블엔투 최영석 과장    
   접속주소 : https://meet.google.com/dgo-vivi-axc  
+  회의록 작성팀 : NYP, 1417, Fugitive or Murderer  
     
 
 ## 예산 사용안내

@@ -76,7 +76,7 @@ git 중간평가 안내 : 2020.4.29.(수)
   * 참여기업 : (주)소프트잼
 ### [Safe Camera(불법촬영 방지)](https://github.com/kcw32/Hallym_Capston_Safe) 
   * 팀명 : safe team  
-  * 팀원 : 곽찬우, 박인근, 백예린, 이유나 
+  * 팀원 : 곽찬우, 박인근, 백예, 이유나 
   * 지도교수 : 김병정
   * 참여기업 : 지오비전
 ### [VR·AR 교육용 탈출게임(위기상황 방탈출)](https://github.com/MunDongJin/Nice)

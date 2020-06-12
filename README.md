@@ -4,7 +4,8 @@
 2020년 1학기 캡스톤디자인 프로젝트에 참여하신 것을 환영합니다.  
 git 중간평가 안내 : 2020.4.29.(수)  
 
-
+## 발표순서
+- [캡스톤디자인 경진대회 발표 순서입니다.](https://github.com/lab-lwc/20201_CapstoneDesign/blob/master/자료/발표순서.PNG)
 ## 화상회의 안내
 - 화상회의 참여 방법 안내 : googleclass의 행아웃을 이용하여 참여  
   google class 수업코드 : itqkrw2 또는 강의전 크롬브라우저 로그인 후 아래 주소로 접속   

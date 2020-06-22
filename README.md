@@ -116,7 +116,7 @@ git 중간평가 안내 : 2020.4.29.(수)
   * 팀원 : 이수형, 권희원, 김승연, 백지연, 정진환 
   * 지도교수 : 노원종
   * 참여기업 : 지오비전
-### [OpenCV 및 머신러닝 학습을 이용한 수도쿠 문제 해결(2팀)](https://github.com/shin950924) 
+### [OpenCV 및 머신러닝 학습을 이용한 수도쿠 문제 해결(2팀)](https://github.com/hansLee-it/2020_1_CapstoneDesign_Sudoku) 
   * 팀명 : MIS(makeIt Sudoku)
   * 팀원 : 신지훈, 이현수, 한준, 조하림 
   * 지도교수 : 노원종
